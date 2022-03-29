@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahmed-saleh98
 - 👀 I’m interested in Front-End evelopment
 - 🌱 I’m currently learning React.js
-- 📫 How to reach me [ahmed.mohamed.saleh198@gmail.com](mailto:ahmed.mohamed.saleh198@gmail.com)
+- 📫 How to reach me [ahmedmsaleh98.wordpress.com](ahmedmsaleh98.wordpress.com)
 
 <!---
 ahmed-saleh98/ahmed-saleh98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
