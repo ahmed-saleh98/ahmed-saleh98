@@ -49,14 +49,6 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<div align="center">
-  <img height="0" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
 
-###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/ahmed-saleh98/ahmed-saleh98/blob/output/snake.svg" alt="Snake animation" />
-
-###
